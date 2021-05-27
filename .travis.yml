@@ -1,14 +1,6 @@
 language:
   - cpp
 
-before_install:
-  - pip install --user cpp-coveralls
-
-addons:
-  sonarcloud:
-    organization: "jidim"
-    token: $SONAR_TOKEN
-
 script:
   - qmake
   - make
