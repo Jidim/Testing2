@@ -1,0 +1,14 @@
+debug/gtest-all.o
+debug/gmock-all.o
+debug/main.o
+debug/save.o
+debug/load.o
+debug/create_text.o
+debug/process_forward.o
+debug/remove_all.o
+debug/append_line.o
+debug/m.o
+debug/show.o
+debug/mnwbf.o
+debug/showlenght.o
+debug/rp.o

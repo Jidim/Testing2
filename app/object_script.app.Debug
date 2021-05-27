@@ -1,0 +1,12 @@
+debug/append_line.o
+debug/create_text.o
+debug/editor.o
+debug/load.o
+debug/m.o
+debug/mnwbf.o
+debug/process_forward.o
+debug/remove_all.o
+debug/rp.o
+debug/save.o
+debug/show.o
+debug/showlenght.o
